@@ -1,16 +1,21 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B68EE&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Dominique+Luisa;I'm+25+years+old;I'm+from+Brazil;Front-End+developer+💻;Software+Engineering+student+💻;Be+Welcome!+😊)](https://git.io/typing-svg)
 
-<!--
-**DominiqueLuisa/DominiqueLuisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DominiqueLuisa&show_icons=true&count_private=true&hide_border=true&title_color=6A5ACD&icon_color=9370DB&text_color=9370DB&bg_color=0d1117" alt="Dominique Luisa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DominiqueLuisa&layout=compact&hide_border=true&title_color=6A5ACD&text_color=9370DB&bg_color=0d1117" />
+</div>
 
-Here are some ideas to get you started:
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DominiqueLuisa&bg_color=0d1117&color=8c5ace&line=29157a&point=6c38cc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center"> 
+<a href="https://www.instagram.com/domii_luisa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href = "vanz.domi@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/dominique-lu%C3%ADsa-8736a7187/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+  
+  <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{DominiqueLuisa}/count.svg" /></p> 
+<br>
+</div>
