@@ -7,6 +7,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DominiqueLuisa&bg_color=0d1117&color=8c5ace&line=29157a&point=6c38cc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+![Snake animation](https://github.com/DominiqueLuisa/DominiqueLuisa/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center"> 
 <a href="https://www.instagram.com/domii_luisa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
@@ -24,4 +25,4 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg ">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
 
-![Snake animation](https://github.com/DominiqueLuisa/DominiqueLuisa/blob/output/github-contribution-grid-snake.svg)
+
